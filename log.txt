@@ -1,0 +1,52 @@
+Nov 21, 2019 11:00:34 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:35 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:36 AM GUI.Table$TilePanel$1$2 run
+INFO: Fist left click on tile c2
+Nov 21, 2019 11:00:36 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:37 AM GUI.Table$TilePanel$1 mouseClicked
+INFO: Second left click on tile c4 P
+Nov 21, 2019 11:00:37 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:37 AM GUI.Table$7 run
+INFO: redrawing board:
+  r  n  b  q  k  b  n  r
+  p  p  p  p  p  p  p  p
+  -  -  -  -  -  -  -  -
+  -  -  -  -  -  -  -  -
+  -  -  P  -  -  -  -  -
+  -  -  -  -  -  -  -  -
+  P  P  -  P  P  P  P  P
+  R  N  B  Q  K  B  N  R
+
+Nov 21, 2019 11:00:37 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:38 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:39 AM GUI.Table$TilePanel$1$2 run
+INFO: Fist left click on tile d7
+Nov 21, 2019 11:00:39 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:40 AM GUI.Table$TilePanel$1 mouseClicked
+INFO: Second left click on tile d5 P
+Nov 21, 2019 11:00:40 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:40 AM GUI.Table$7 run
+INFO: redrawing board:
+  r  n  b  q  k  b  n  r
+  p  p  p  -  p  p  p  p
+  -  -  -  -  -  -  -  -
+  -  -  -  p  -  -  -  -
+  -  -  P  -  -  -  -  -
+  -  -  -  -  -  -  -  -
+  P  P  -  P  P  P  P  P
+  R  N  B  Q  K  B  N  R
+
+Nov 21, 2019 11:00:40 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:41 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+Nov 21, 2019 11:00:43 AM GUI.Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar

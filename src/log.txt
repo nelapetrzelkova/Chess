@@ -1,0 +1,88 @@
+kvě 16, 2019 11:28:21 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:22 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:23 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:24 DOP. Table$TilePanel$1 lambda$mouseClicked$1
+INFO: Fist left click on tile f2
+kvě 16, 2019 11:28:24 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:25 DOP. Table$TilePanel$1 mouseClicked
+INFO: Second left click on tile f4 P
+kvě 16, 2019 11:28:25 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:25 DOP. Table lambda$doMove$9
+INFO: redrawing board:
+  r  n  b  q  k  b  n  r
+  p  p  p  p  p  p  p  p
+  -  -  -  -  -  -  -  -
+  -  -  -  -  -  -  -  -
+  -  -  -  -  -  P  -  -
+  -  -  -  -  -  -  -  -
+  P  P  P  P  P  -  P  P
+  R  N  B  Q  K  B  N  R
+
+kvě 16, 2019 11:28:25 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:26 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:28 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:29 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:30 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:31 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:32 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:33 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:34 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:35 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:36 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:37 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:38 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:39 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:40 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:41 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:42 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:43 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:44 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:45 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:46 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:46 DOP. Table$TilePanel$1 lambda$mouseClicked$1
+INFO: Fist left click on tile d7
+kvě 16, 2019 11:28:47 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:47 DOP. Table$TilePanel$1 mouseClicked
+INFO: Second left click on tile d5 P
+kvě 16, 2019 11:28:47 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar
+kvě 16, 2019 11:28:47 DOP. Table lambda$doMove$9
+INFO: redrawing board:
+  r  n  b  q  k  b  n  r
+  p  p  p  -  p  p  p  p
+  -  -  -  -  -  -  -  -
+  -  -  -  p  -  -  -  -
+  -  -  -  -  -  P  -  -
+  -  -  -  -  -  -  -  -
+  P  P  P  P  P  -  P  P
+  R  N  B  Q  K  B  N  R
+
+kvě 16, 2019 11:28:48 DOP. Table$LowerBar drawLowerBar
+INFO: Redrawing lower bar

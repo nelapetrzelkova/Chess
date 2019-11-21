@@ -1,0 +1,9 @@
+white
+ - - - k - - - -
+ p p p p - p p p
+ - - - - - - - -
+ - - - p - - - -
+ - - K - - - - r
+ N - - - - - - -
+ P P P P P P P P
+ R - B Q - B N R
